@@ -14,3 +14,7 @@ d3 bidan
 405006
 4050066ee7d8e30
 
+STR Keperawatan
+4005121
+12312300
+
